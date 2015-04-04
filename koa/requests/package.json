@@ -1,0 +1,12 @@
+{
+  "name": "KoaPartsDemo",
+  "version": "0.0.1",
+  "description": "Some small demos for the Koa API",
+  "author": "Marcus Hammarberg @marcusoftnet",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^0.12.2",
+    "koa-logger": "^1.2.2",
+    "co-body": "^1.0.0"
+  }
+}
